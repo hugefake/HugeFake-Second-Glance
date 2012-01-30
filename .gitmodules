@@ -1,0 +1,3 @@
+[submodule "HG1stGlance"]
+	path = HG1stGlance
+	url = git@github.com:hugefake/HugeFake-First-Glance.git
