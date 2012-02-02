@@ -1,3 +1,5 @@
 hugefake pretend to be someone else, he clones 2nd Glance and plan to update something on it to see what will happen to the original repo
 
 someone added a line here to see if hugefake will get confuse while he is also changing something in the same file
+
+someone added a new line again
